@@ -2,6 +2,8 @@ pip install virtualenv --> instalar creador de entornos virtuales
 
 virtualenv entorno_virtual --> crear entorno virtual
 
+Rm - r entorno_virtual --> borrar entorno virtual
+
 entorno_virtual/Scripts/activate --> activar entorno virtual
 
 virtualenv entorno_virtual -p path\to\new_python.exe --> Crear un entorno virtual con una versión especifíca de python
